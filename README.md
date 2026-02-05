@@ -1,12 +1,9 @@
 # 👋 Olá, eu sou o Marco Túlio Borges
 
-Busco oportunidades de Estágio ou Jr. como Analista de Dados ou Desenvolvedor.</br>
-📆 28 Anos</br> 🎓 Universidade de Uberaba - Campus Uberlândia</br> 📚 Bacharelado em Sistemas de Informação</br> 💻 Analista de Suporte (N1) em PRODAUB</br> 🖌️ Tecnólogo em Design Gráfico</br> 🧠 Neurodiferente (sem prejuízo funcional)</br>
+Busco oportunidades de Desenvolvedor Front-End Estágio ou Júnior.</br>
+📆 29 Anos</br> 🎓 Universidade de Uberaba - Campus Uberlândia</br> 📚 Bacharelado em Sistemas de Informação</br> 💻 Analista de Suporte (N1) em PRODAUB</br> 🖌️ Tecnólogo em Design Gráfico</br> 🧠 Neurodiferente (sem prejuízo funcional)</br>
 > Aprendizado Rápido, Comunicativo, Organizado, Pensamento Analítico, Proativo, Resolução de Problemas.
 ## Habilidades em:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmtp&theme=dark&locale=pt-br" width="440"> | <a href="https://github.com/borgesmtp/alura" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesmtp&repo=alura&theme=dark"></a></br> <a href="https://github.com/borgesmtp/uniube" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesmtp&repo=uniube&theme=dark"></a> |
-|:--|:--|
-
+![HTML5](https://img.shields.io/badge/HTML5-green?logo=HTML5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-green?logo=CSS3&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-green?logo=javascript&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-green?logo=SQL&logoColor=ffffff) 
 # Conecte-se comigo:
-<a href="https://linkedin.com/in/borgesmtp" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://borgesmtp-portfolio-2025.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Todos_os_Links-green" alt="Todos os links"></a>
